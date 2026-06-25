@@ -1,0 +1,13 @@
+#conteiner {
+  display: grid;
+  grid-template-rows: 3;
+  justify-content: center;
+}
+
+input, button {
+  width: 300px;
+  height: 40px;
+  margin: 15px;
+  justify-content: center;
+}
+
